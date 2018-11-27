@@ -4,3 +4,5 @@
 AndroidTcpClient：用于控制网络继电器设备。运行环境：Android5.
 
 WebView:WebView的简单使用。运行环境：Android7.
+
+FullScreenTest:界面全屏   运行环境：Android7.
