@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">tmp_double_camera</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+
+</resources>
