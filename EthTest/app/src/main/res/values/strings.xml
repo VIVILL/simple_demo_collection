@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">eth_test</string>
+    <string name="suggestion">请确保在关闭wifi并且以太网已连接的情况下进行测试</string>
+
+    <string name="gate_way">以太网测试</string>
+    <string name="gate_way_string">点击以太网测试后，设备将进行ping网关操作</string>
+
+    <string name="eth0_down">关闭以太网</string>
+    <string name="eth0_down_string">点击关闭以太网，设备将执行关闭以太网操作</string>
+
+    <string name="eth0_up">开启以太网</string>
+    <string name="eth0_up_string">点击开启以太网，设备将执行开启以太网操作</string>
+
+    <string name="result_string">测试结果：</string>
+
+</resources>
