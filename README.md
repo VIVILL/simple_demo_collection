@@ -22,3 +22,11 @@ Android通过ping操作进行网络检测，并返回花费的时间
 Android中通过xml给布局添加边框
 [https://blog.csdn.net/honey_angle_first/article/details/77323286](https://blog.csdn.net/honey_angle_first/article/details/77323286)
 
+5.reboot  根据AlarmDemo改了一点，功能为定时重启。运行环境：Android4.4. android 6（需系统签名）。
+
+参考链接：
+
+AlarmDemo
+
+https://github.com/muxiaofufeng/AlarmDemo
+
